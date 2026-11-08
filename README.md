@@ -26,3 +26,9 @@ Found a bug or have an idea? [Open an issue](../../issues). Ease is still growin
 
 ---
 Made by [minhgiam](https://github.com/minhgiam)
+
+
+## Built with
+- Kotlin (app code)
+- Shell and Python (build and packaging scripts)
+- Android SDK
